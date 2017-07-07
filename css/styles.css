@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#alexander-lem-cover {
+    background-image: url("http://imgur.com/FcAHoum.jpg");
+}
+
+#alexander-lem-card {
+    background-image: url("http://imgur.com/MFidGFK.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
